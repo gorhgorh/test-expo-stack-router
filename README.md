@@ -1,3 +1,14 @@
+# this is a simple test for an issue I have with the expo stack router
+
+## The issue
+
+once I click on the button to navigate to the second screen, then to the first, at some point of this back and forth the link does not work anymore, reload "reset" the navigation.
+
+## tested on
+
+- ipad running ios 18.1.1
+- simulator (iphone 16) running ios 18.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
